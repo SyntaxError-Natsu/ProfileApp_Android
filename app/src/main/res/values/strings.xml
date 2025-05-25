@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileApp</string>
+
+    <!-- Header -->
+    <string name="profile">Profile</string>
+    <string name="support">Support</string>
+
+    <!-- Profile Section -->
+    <string name="username">Priyanshu Kumar</string>
+    <string name="member_since">Member since May, 2025</string>
+
+    <!-- CRED Garage -->
+    <string name="cred_garage">CRED Garage</string>
+    <string name="cred_garage_subtitle">Get to know your vehicles, inside out</string>
+
+    <!-- Main Sections -->
+    <string name="credit_score">Credit Score</string>
+    <string name="lifetime_cashback">Lifetime Cashback</string>
+    <string name="bank_balance">Bank Balance</string>
+    <string name="check">Check</string>
+    <string name="refresh_available">REFRESH AVAILABLE</string>
+
+    <!-- Rewards -->
+    <string name="rewards_header">YOUR REWARDS &amp; BENEFITS</string>
+    <string name="cashback_balance">Cashback Balance</string>
+    <string name="coins">Coins</string>
+    <string name="win_amount">Win upto Rs 1000</string>
+    <string name="refer_earn">Refer and earn</string>
+
+    <!-- Transactions -->
+    <string name="transactions_header">TRANSACTIONS &amp; SUPPORT</string>
+    <string name="all_transactions">All transactions</string>
+
+    <!-- Currency -->
+    <string name="rupee_symbol">₹</string>
+    <string name="cashback_amount">7</string>
+
+    <!-- Content Descriptions -->
+    <string name="back_button">Back</string>
+    <string name="message_icon">Message</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="car_icon">Car</string>
+    <string name="arrow_right">Arrow Right</string>
+    <string name="rupee_icon">Rupee</string>
+    <string name="bank_icon">Bank</string>
+</resources>
